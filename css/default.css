@@ -2,3 +2,12 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+.item{
+    display:block;
+}
+
+.carousel-caption{
+    color:#000;
+    position:static;
+}
